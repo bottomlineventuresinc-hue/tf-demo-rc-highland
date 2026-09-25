@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Residential and commercial electrical across Highland and the Inland Empire. Robert looks at the job first and puts the price in writing.';
+            'Residential and commercial electrical in Highland. Robert looks at the job first and puts the price in writing.';
         }
       }
     },
