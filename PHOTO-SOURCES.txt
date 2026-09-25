@@ -1,13 +1,20 @@
-PHOTO SOURCES — hs-049-rc R/C Electric (Wave 10 2026-09-24 PT)
-Commercial-ok Unsplash/Pexels (and prior Wave verified library). Verified by opening each file. No owner stock face.
+PHOTO SOURCES · hs-049-rc R/C Electric (CR 2026-09-25 PT rebuild)
+All CC0 / public domain (StockSnap, rawpixel CC0, WordPress Photos CC0, Flickr CC0/PDM via Openverse) or prior verified Wave library.
+Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
 
-hero-site.jpg — residential electrical panel / breaker work (verified; not camcorder/welder/high-rise)
-services-trade.jpg — panel services (verified; rotated per lead for distinct heroes)
-job041-* — panel B/A typical of this kind of job (verified prior-wave library)
-job-elec-* — outdoor enclosure service set (verified)
-job052-* — circuit/tools typical of this kind of job (verified)
-people-* — tools/toolbox/crew jobsite — NOT owner face
-coverage-house.jpg — CA-style residential exterior (verified)
-Rejected: stock face electrician portrait — not used as owner
-Sources: Wave5–7 + prior Wave verified library 2026-09-24 PT
-Note: not rc-electric.com (unrelated Spain firm); homes+shops angle
+hero-site.jpg <- wave11/elec-tool-wall.jpg : wall of hand tools (prior verified library wave5/elec-wire-d.jpg)
+services-trade.jpg <- wave11/elec-meter-cabinet.jpg : meter and breaker cabinet (Flickr PDM 49514987902)
+people-crew.jpg <- wave11/tools-ratchet.jpg : ratchet sockets close-up (StockSnap CC0 4RHOB6RC3S)
+people-marek.jpg <- wave11/elec-breakers-probe.jpg : breaker panel tested with a probe (StockSnap CC0 81EG7NOR4G)
+people-tom.jpg <- wave11/elec-wire-colors.jpg : colored wire ends (rawpixel CC0 5924439)
+coverage-house.jpg <- wave11/house-gabled-lawn.jpg : gabled single-family home with lawn (prior verified library wave2/house-suburb.jpg)
+elec-wiring-messy.jpg <- wave11/elec-wiring-messy.jpg : tangled old wiring in a worn box (StockSnap CC0 63670C8E97)
+elec-breakers-row.jpg <- wave11/elec-breakers-row.jpg : row of breakers with wiring (StockSnap CC0 6Y6VEZPDC1)
+elec-terminals.jpg <- wave11/elec-terminals.jpg : terminal blocks and wiring (rawpixel CC0 5904900)
+elec-ladder-panel.jpg <- wave11/elec-ladder-panel.jpg : ladder beside an open electrical panel (rawpixel CC0 5943800)
+elec-rough-box.jpg <- cr0925/elec-rough-box.jpg : 20220129-RD-LSC-0065 (flickr PDM https://www.flickr.com/photos/41284017@N08/51849999359)
+elec-pendant-warm.jpg <- cr0925/elec-pendant-warm.jpg : A pendant light fixture with a round, bowl-like shape made of a textured, light- (wordpress CC0 https://wordpress.org/photos/photo/69869f6fd3/)
+
+Replaced from the prior build: all photos (prior library had mislabeled trade images and stock faces).
+Note: rc-electric.com is an unrelated Spanish engineering firm; NOT linked or offered. Prior stock electrician faces removed.
